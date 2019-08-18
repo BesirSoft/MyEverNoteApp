@@ -10,7 +10,11 @@ namespace Programim
     {
         static void Main(string[] args)
         {
-            Console.writline("merhaba dünya");
+            Console.WriteLine("merhaba dünya");
+            if (true)
+            {
+
+            }
         }
     }
 }
