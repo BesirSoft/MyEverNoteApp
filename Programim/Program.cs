@@ -16,6 +16,7 @@ namespace Programim
                 //açıkalma ekelndi
                 //açıkalma ekelndi
                 //açıkalma ekelndi
+                Console.WriteLine("");
             }
         }
     }
