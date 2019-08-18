@@ -13,7 +13,9 @@ namespace Programim
             Console.WriteLine("merhaba dünya");
             if (true)
             {
-          //açıkalma ekelndi
+                //açıkalma ekelndi
+                //açıkalma ekelndi
+                //açıkalma ekelndi
             }
         }
     }
