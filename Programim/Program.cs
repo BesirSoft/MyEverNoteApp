@@ -10,6 +10,7 @@ namespace Programim
     {
         static void Main(string[] args)
         {
+            Console.writline("merhaba dünya");
         }
     }
 }
